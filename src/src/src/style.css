@@ -1,0 +1,29 @@
+:root {
+  font-family: Arial, system-ui;
+  direction: rtl;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 16px;
+}
+
+.header {
+  padding: 12px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.brand {
+  font-size: 22px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #111;
+}
+
+.footer {
+  margin-top: 40px;
+  padding-top: 12px;
+  border-top: 1px solid #eee;
+  color: #666;
+}
